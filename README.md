@@ -1,8 +1,5 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
 
-<h1> < Hi There / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> < Hi There / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px > </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=83Elias.83Elias)
@@ -16,11 +13,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on 
+- 📚 I’m currently learning Reactjs,Unit Testing,Nodejs,Express 
 
-- 🌱 I’m currently learning Reactjs,Unit Testing,Nodejs,Express 
-
-- 👯 I’m looking to collaborate on Open Sources Projects 
+- 💪 I’m looking to collaborate on Open Sources Projects 
 
 - 💬 Talk to me about Python, JavaScript, Java,Scrum,MVC,Designs Patterns,Devops,Opportunities
 
@@ -49,3 +44,4 @@
 ![Metrics](https://metrics.lecoq.io/83Elias?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 
+<p>tribute to https://share.streamlit.io/ </p>
