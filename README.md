@@ -17,7 +17,7 @@
 
 - 💪 I’m looking to collaborate on Open Sources Projects 
 
-- 💬 Talk to me about Python, JavaScript, Java,Scrum,MVC,Designs Patterns,Devops,Opportunities
+- 💬 Talk to me about Develop, JavaScript, Java,Scrum,Designs Patterns,Devops,Opportunities
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
